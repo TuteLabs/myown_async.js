@@ -10,8 +10,7 @@ function compute() {
 	console.log("compute finished")
 }
 
-// console.log("I am going to be busy for some time...wait for me please")
-
-console.log("Busy Executing a task...")
+console.log("I hate being busy on one particular task, as I have to finish other simple tasks too...")
+console.log("Getting Busy again...")
 compute()
-console.log("I am Free now :)")
+console.log("Please help me...")
