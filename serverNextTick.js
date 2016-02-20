@@ -10,4 +10,5 @@ function compute() {
 	console.log("compute finished")
 }
 
-console.log("I am CPU, I am quite relax now...")
+console.log("But I am no longer, going to be Relax, because I tedious task is pending for me :(")
+
