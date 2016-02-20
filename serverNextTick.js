@@ -10,5 +10,5 @@ function compute() {
 	console.log("compute finished")
 }
 
-console.log("But I am no longer, going to be Relax, because I tedious task is pending for me :(")
+console.log("I am going to be busy for some time...wait for me please")
 
